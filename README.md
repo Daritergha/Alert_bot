@@ -1,2 +1,6 @@
 # Alert_bot
-Alert_bot for Prometheus-Grafana_alertmanager stack
+Alert_bot for Prometheus-Grafana-nodeexporter-alertmanager stack
+
+Интегрируемый телеграм-бот для сбора метрик Grafana с подключаемой системы. Вывод данных экспортёра осуществляется через Prometheus.
+Применялся в проекте Avalanche-Bonch для сбора данных с рабочего сервера, на котором располагались парсеры, вычислительные блоки, 3 базы данных и ИИ нода-обработчик поступаемых метрик.
+P.S. Код брался с встроенной в сервер ВМ Ubuntu 18.04 LTS
