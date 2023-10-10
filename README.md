@@ -1,4 +1,4 @@
-![image](https://github.com/Daritergha/Alert_bot/assets/101475231/22d3c89c-399a-4c7c-8a0e-acc92daa745e)# Alert_bot
+# Alert_bot
 Alert_bot for Prometheus-Grafana-nodeexporter-alertmanager stack
 
 Интегрируемый телеграм-бот для сбора метрик Grafana с подключаемой системы. Вывод данных экспортёра осуществляется через Prometheus.
