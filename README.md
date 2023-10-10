@@ -6,6 +6,6 @@ Alert_bot for Prometheus-Grafana-nodeexporter-alertmanager stack
 P.S. Код брался с встроенной в сервер ВМ Ubuntu 18.04 LTS
 
 Для изменения вида сообщений необходимо менять параметры внутри блока alert в alert.rules:
-![]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/Daritergha/Alert_bot/blob/main/img1.png)https://github.com/Daritergha/Alert_bot/blob/main/img1.png?raw=true)
+![_](https://github.com/Daritergha/Alert_bot/blob/main/img1.png)https://github.com/Daritergha/Alert_bot/blob/main/img1.png)
 
 Параметры отображения больше зависят от настроек непосредственно задействованных сервисов, телеграм-бот же всего лишь отправляет данные в указанном виде.
